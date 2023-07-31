@@ -11,7 +11,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O SpotifyClone é a página inicial do Spotify, usada para o redirecionamento da aplicação.
 
-- [Acesse o projeto finalizado]([https://rmeiio.github.io/RogersTree](https://rmeiio.github.io/SpotifyClone/))
+- [Acesse o projeto finalizado](https://rmeiio.github.io/SpotifyClone/)
 
 ## Autor
 
